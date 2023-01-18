@@ -1,0 +1,15 @@
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\bin\Debug\net7.0\CelularPOO-CSharp.exe
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\bin\Debug\net7.0\CelularPOO-CSharp.deps.json
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\bin\Debug\net7.0\CelularPOO-CSharp.runtimeconfig.json
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\bin\Debug\net7.0\CelularPOO-CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\bin\Debug\net7.0\CelularPOO-CSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.csproj.AssemblyReference.cache
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.AssemblyInfoInputs.cache
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.AssemblyInfo.cs
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\refint\CelularPOO-CSharp.dll
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\CelularPOO-CSharp.genruntimeconfig.cache
+C:\Users\hugo.santos\Documents\estudo\CelularPOO-CSharp\obj\Debug\net7.0\ref\CelularPOO-CSharp.dll
